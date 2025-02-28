@@ -1,0 +1,30 @@
+[
+    {
+        "platform": "Segment",
+        "url": "https://example.com/segment",
+        "content": [
+            {
+                "question": "How to integrate Segment?",
+                "answer": "To integrate Segment, follow these steps..."
+            },
+            {
+                "question": "What is Segment?",
+                "answer": "Segment is a customer data platform..."
+            }
+        ]
+    },
+    {
+        "platform": "mParticle",
+        "url": "https://example.com/mparticle",
+        "content": [
+            {
+                "question": "How to set up mParticle?",
+                "answer": "To set up mParticle, you need to..."
+            },
+            {
+                "question": "What is mParticle?",
+                "answer": "mParticle is a data integration platform..."
+            }
+        ]
+    }
+]
